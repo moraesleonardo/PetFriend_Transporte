@@ -1,6 +1,6 @@
 package org.example.controller;
 
-import org.example.entity.Pedido;
+import org.example.transporte.Pedido;
 import org.example.repository.PedidoRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

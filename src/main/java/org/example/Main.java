@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @SpringBootApplication
 @EntityScan(
-        basePackages = {"org.example.entity"}
+        basePackages = {"org.example.transporte"}
 )
 public class Main {
     public Main() {

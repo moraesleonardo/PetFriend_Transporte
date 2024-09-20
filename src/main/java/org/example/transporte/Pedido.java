@@ -1,8 +1,7 @@
-package org.example.entity;
+package org.example.transporte;
 
 import jakarta.persistence.*;
-import org.example.valueobject.StatusTransporte;
-
+import jakarta.persistence.Entity;
 import java.time.LocalDate;
 import java.util.Objects;
 
